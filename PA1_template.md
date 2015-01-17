@@ -212,7 +212,7 @@ median(nsn)
 ## [1] 10762
 ```
 
-Conclusion about comparing the histogram, mean, ans median with and without NA:
+Conclusion: about comparing the histogram, mean, ans median with and without NA:
 
 **- Both new mean and median are in the same range of previous mean and median**
 
